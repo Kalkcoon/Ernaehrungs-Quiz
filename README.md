@@ -1,1 +1,1 @@
-# Ern-hrungs-Quiz
+# Ernaehrungs-Quiz
